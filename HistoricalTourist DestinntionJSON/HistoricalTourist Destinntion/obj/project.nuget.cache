@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+a4CUG9oYrM68sJLZRxCF2ELhgha8Ohe9fuNMclzq0oAfZYVW+K7eY3fAlAdYocUVb0O1GsH8A7jMGyNN+NRwg==",
+  "success": true,
+  "projectFilePath": "/Users/deepa/Desktop/Historical Tourist Destinntion Project FInal IS7024/HistoricalTourist DestinntionJSON/HistoricalTourist Destinntion/WorldHeritageJSON.csproj",
+  "expectedPackageFiles": [
+    "/Users/deepa/.nuget/packages/documentformat.openxml/2.12.3/documentformat.openxml.2.12.3.nupkg.sha512",
+    "/Users/deepa/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/deepa/.nuget/packages/newtonsoft.json.schema/3.0.14/newtonsoft.json.schema.3.0.14.nupkg.sha512",
+    "/Users/deepa/.nuget/packages/system.io.packaging/4.7.0/system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

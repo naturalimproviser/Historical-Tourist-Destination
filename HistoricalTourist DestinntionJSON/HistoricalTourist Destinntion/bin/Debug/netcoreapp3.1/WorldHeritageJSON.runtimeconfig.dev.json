@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/deepa/.dotnet/store/|arch|/|tfm|",
+      "/Users/deepa/.nuget/packages"
+    ]
+  }
+}

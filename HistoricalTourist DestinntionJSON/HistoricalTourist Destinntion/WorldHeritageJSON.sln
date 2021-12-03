@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldHeritageJSON", "WorldHeritageJSON.csproj", "{7C96F19B-6DD3-4378-97D2-FE5A3983C831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C96F19B-6DD3-4378-97D2-FE5A3983C831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C96F19B-6DD3-4378-97D2-FE5A3983C831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C96F19B-6DD3-4378-97D2-FE5A3983C831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C96F19B-6DD3-4378-97D2-FE5A3983C831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E105D189-FCAF-4F16-8C4C-5121C65D7CBF}
+	EndGlobalSection
+EndGlobal
