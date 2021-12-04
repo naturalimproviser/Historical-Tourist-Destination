@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7C96F19B-6DD3-4378-97D2-FE5A3983C831}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuickType.cs">
+    <Files>
+      <File FileName="QuickType.cs" Line="135" Column="24" IsPinned="True" />
+      <File FileName="Pages/WorldHeritageSites.cshtml" Line="51" Column="37" />
+      <File FileName="unesco.json" Line="1" Column="1" />
+      <File FileName="Weather.cs" Line="63" Column="33" />
+      <File FileName="Pages/WeatherShare.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Pages/Error.cshtml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorldHeritageJSON" expanded="True">
+            <Node name="WorldHeritageJSON" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WorldHeritageJSON PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
