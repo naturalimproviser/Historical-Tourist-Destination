@@ -1,18 +1,39 @@
 ﻿<Properties StartupConfiguration="{7C96F19B-6DD3-4378-97D2-FE5A3983C831}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="QuickType.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="QuickType.cs" Line="135" Column="24" IsPinned="True" />
-      <File FileName="Pages/WorldHeritageSites.cshtml" Line="51" Column="37" />
       <File FileName="unesco.json" Line="1" Column="1" />
-      <File FileName="Weather.cs" Line="63" Column="33" />
+      <File FileName="Pages/WeatherShareAPI.cs" Line="17" Column="1" />
+      <File FileName="Weather.cs" Line="177" Column="1" />
       <File FileName="Pages/WeatherShare.cshtml.cs" Line="1" Column="1" />
       <File FileName="Pages/Error.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="16" Column="1" />
+      <File FileName="Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WorldHeritageJSON" expanded="True">
-            <Node name="WorldHeritageJSON" expanded="True" />
+            <Node name="WorldHeritageJSON" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+                <Node name="Error.cshtml" expanded="True" />
+                <Node name="WeatherShare.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+                <Node name="ServiceDependencies" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -22,7 +43,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/deepa/Desktop/Historical Tourist Destination Project FInal IS7024/Historical-Tourist-Destination/HistoricalTourist DestinationJSON/HistoricalTourist Destination/Pages/WeatherShare.cshtml.cs" relfile="Pages/WeatherShare.cshtml.cs" line="14" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
