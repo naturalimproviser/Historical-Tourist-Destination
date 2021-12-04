@@ -16,6 +16,6 @@ Our application provides has the following Unique features -
 The JSON files uses open source data from several website, while also displaying the wikipedia page for providing external information to curious user. 
 
 Our Team - 
-Deepak Narang
-Sehar Nagpal
+Deepak Narang, 
+Sehar Nagpal, 
 Jayanth Chaudhary Bandi
