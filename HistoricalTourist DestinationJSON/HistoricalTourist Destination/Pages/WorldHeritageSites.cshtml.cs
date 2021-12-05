@@ -28,8 +28,6 @@ namespace WorldHeritageJSON.Pages
         public string description { get; set; }
         public string name { get; set; }
         public double tem { get; set; }
-
-
     }
     public class WorldHeritageSitesModel : PageModel
     {
@@ -42,8 +40,6 @@ namespace WorldHeritageJSON.Pages
         public string UnescoCountry { get; set; }
         public bool IsSearchCountry { get; set; }
         public bool IsSearchValid = true;
-
-        
         public bool IsSearchEmpty = false;
 
         public void OnGet()
